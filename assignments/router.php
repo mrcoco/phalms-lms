@@ -9,7 +9,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-06-10
  * @time:   17:06:42
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 $router->add('/assignments', array(

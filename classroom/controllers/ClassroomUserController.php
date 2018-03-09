@@ -9,7 +9,7 @@
  * @link    
  * @date:   2017-06-13
  * @time:   11:06:05
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 namespace Modules\Classroom\Controllers;

@@ -9,7 +9,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-06-09
  * @time:   08:06:46
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 namespace Modules\School;

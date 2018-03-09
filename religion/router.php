@@ -9,7 +9,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-06-12
  * @time:   12:06:11
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 $router->add('/religion', array(

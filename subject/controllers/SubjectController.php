@@ -9,7 +9,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-06-09
  * @time:   09:06:58
- * @license MIT
+ * @license BSD-3-Clause
  */
 
 namespace Modules\Subject\Controllers;

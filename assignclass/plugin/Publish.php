@@ -10,7 +10,7 @@
  * @link    http://cempakaweb.com
  * @date:   2017-06-10
  * @time:   17:06:00
- * @license MIT
+ * @license BSD-3-Clause
  */
 namespace Modules\Assignclass\Plugin;
 use Phalcon\Db\Column;
